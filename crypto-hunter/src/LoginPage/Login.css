@@ -1,0 +1,11 @@
+.loginbg{
+    background-image: url(./imges/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:rgba(236, 246, 245, 0.904)
+}
